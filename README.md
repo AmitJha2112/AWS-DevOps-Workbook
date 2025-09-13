@@ -15,3 +15,19 @@ and operational resilience.
 As DevOps continues to evolve, so should your skill set. Keep this workbook 
 handy, update it with new findings, and use it as a living document to adapt to 
 emerging technologies and best practices.
+
+
+## 🛠️ Author & Community  
+
+This project is crafted by **[Amit Kumar Jha](https://github.com/amitjha2112)** 💡.  
+I’d love to hear your feedback! Feel free to share your thoughts.  
+
+📧 **Connect with me:**
+
+- **GitHub**: [amitjha2112](https://github.com/amitjha2112)   
+- **LinkedIn**: [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-55b112216/)  
+
+---
+
+⭐ Support the Project
+If you found this helpful, consider starring ⭐ the repository and sharing it with your network! 🚀
